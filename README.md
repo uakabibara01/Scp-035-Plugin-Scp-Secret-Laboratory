@@ -1,5 +1,5 @@
---Це плагін на Scp 035. Scp 035 має 300hp і вони кожу секунду на 1 hp зменшується.
--- Предмети які можуть в собі містити Scp 035 це --
+--This is a plugin for the Scp 035. The Scp 035 has 300hp and they lose 1 hp every second.
+-- Items that may contain Scp 035 are --
 MicroHID
 SCP268
 GunFRMG0
@@ -7,7 +7,7 @@ Jailbird
 GunLogicer
 KeycardO5
 ArmorHeavy
--- Шанси --
- Щоб предмет який може заспавнитися з Scp 035 на це в него 20% шансу 
--- Механіки дружби з іншими Scp 035
-Scp і Scp 035 не можуть наносити по масці або маска по Scp урон.
+-- Odds --
+ For an item that can be spawned with Scp 035, it has a 20% chance 
+-- Mechanics of friendship with other Scp 035
+Scp and Scp 035 cannot deal mask or mask damage to Scp.
